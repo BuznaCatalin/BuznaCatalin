@@ -1,3 +1,4 @@
+![gif from nerdy.dev](https://github.com/BuznaCatalin/BuznaCatalin/blob/master/sign.gif?raw=true)
 ### Hi there 👋
 
 <!--
