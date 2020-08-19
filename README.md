@@ -10,14 +10,12 @@
 - 📫 How to reach me: buzna.catalin@gmail.com;
 - ⚡ Fun fact: I can solve a Rubick's cube in 1 minute.
 
+### Connect with me!
 
 🏡 - [website][website]
 <br />
 👔 - [linkedin][linkedin]
-<br />
-📧 - [mail][mail]
 
-[mail]: buzna.catalin@yahoo.com
 [website]: https://buznacatalin.ro
 [linkedin]: https://www.linkedin.com/in/buzna-catalin/
 
