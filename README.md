@@ -12,7 +12,7 @@
 
 ### Connect with me!
 
-🏡 - [website][website] (in-progress)
+🏡 - [website][website] 
 <br />
 👔 - [linkedin][linkedin]
 
