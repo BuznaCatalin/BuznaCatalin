@@ -16,7 +16,7 @@
 <br />
 👔 - [linkedin][linkedin]
 
-[website]: https://buznacatalin.ro
+[website]: https://www.buznacatalin.com
 [linkedin]: https://www.linkedin.com/in/buzna-catalin/
 
 ### Languages and Tools:
