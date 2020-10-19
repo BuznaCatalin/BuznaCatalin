@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Cătălin  👋
 
-### I'm a Jr.Software Tester, freshly graduated with a strong passion for technology and automated processes.
+### I'm a Software Tester, freshly graduated with a strong passion for technology and automated processes.
 
 - 🔨 I’m currently working on different projects linked with automation;
 - 📚 I’m currently learning Selenium, Linux distribution, testing processes;
